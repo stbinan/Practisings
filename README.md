@@ -1,4 +1,4 @@
-BinChan-Practisings
+Practisings
 ===================
 
 Personal practising codes.
